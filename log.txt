@@ -1,0 +1,156 @@
+	======ASCENDING======
+Quick sort on 1024 elements:	0.0050s
+QuickFast sort on 1024 elements:	0.0010s
+Merge sort on 1024 elements:	0.0010s
+
+
+	======DESCENDING======
+Quick sort on 1024 elements:	0.0s
+QuickFast sort on 1024 elements:	0.0010s
+Merge sort on 1024 elements:	0.0010s
+
+
+	======EQUAL======
+Quick sort on 1024 elements:	0.0s
+QuickFast sort on 1024 elements:	0.0s
+Merge sort on 1024 elements:	0.0s
+
+
+	======RANDOM======
+Quick sort on 1024 elements:	0.0010s
+QuickFast sort on 1024 elements:	0.0010s
+Merge sort on 1024 elements:	0.0s
+
+
+
+
+	======ASCENDING======
+Quick sort on 2048 elements:	0.0020s
+QuickFast sort on 2048 elements:	0.0020s
+Merge sort on 2048 elements:	0.0010s
+
+
+	======DESCENDING======
+Quick sort on 2048 elements:	0.0010s
+QuickFast sort on 2048 elements:	0.0020s
+Merge sort on 2048 elements:	0.0s
+
+
+	======EQUAL======
+Quick sort on 2048 elements:	0.0s
+QuickFast sort on 2048 elements:	0.0s
+Merge sort on 2048 elements:	0.0s
+
+
+	======RANDOM======
+Quick sort on 2048 elements:	0.0020s
+QuickFast sort on 2048 elements:	0.0020s
+Merge sort on 2048 elements:	0.0010s
+
+
+
+
+	======ASCENDING======
+Quick sort on 4096 elements:	0.0020s
+QuickFast sort on 4096 elements:	0.0040s
+Merge sort on 4096 elements:	0.0010s
+
+
+	======DESCENDING======
+Quick sort on 4096 elements:	0.0020s
+QuickFast sort on 4096 elements:	0.0040s
+Merge sort on 4096 elements:	0.0020s
+
+
+	======EQUAL======
+Quick sort on 4096 elements:	0.0s
+QuickFast sort on 4096 elements:	0.0s
+Merge sort on 4096 elements:	0.0010s
+
+
+	======RANDOM======
+Quick sort on 4096 elements:	0.0030s
+QuickFast sort on 4096 elements:	0.0050s
+Merge sort on 4096 elements:	0.0020s
+
+
+
+
+	======ASCENDING======
+Quick sort on 8192 elements:	0.0040s
+QuickFast sort on 8192 elements:	0.01s
+Merge sort on 8192 elements:	0.0010s
+
+
+	======DESCENDING======
+Quick sort on 8192 elements:	0.0050s
+QuickFast sort on 8192 elements:	0.0090s
+Merge sort on 8192 elements:	0.0030s
+
+
+	======EQUAL======
+Quick sort on 8192 elements:	0.0010s
+QuickFast sort on 8192 elements:	0.0010s
+Merge sort on 8192 elements:	0.0020s
+
+
+	======RANDOM======
+Quick sort on 8192 elements:	0.0060s
+QuickFast sort on 8192 elements:	0.012s
+Merge sort on 8192 elements:	0.0060s
+
+
+
+
+	======ASCENDING======
+Quick sort on 16384 elements:	0.012s
+QuickFast sort on 16384 elements:	0.023s
+Merge sort on 16384 elements:	0.0070s
+
+
+	======DESCENDING======
+Quick sort on 16384 elements:	0.011s
+QuickFast sort on 16384 elements:	0.024s
+Merge sort on 16384 elements:	0.0090s
+
+
+	======EQUAL======
+Quick sort on 16384 elements:	0.0010s
+QuickFast sort on 16384 elements:	0.0020s
+Merge sort on 16384 elements:	0.0070s
+
+
+	======RANDOM======
+Quick sort on 16384 elements:	0.017s
+QuickFast sort on 16384 elements:	0.027s
+Merge sort on 16384 elements:	0.012s
+
+
+
+
+	======ASCENDING======
+Quick sort on 32768 elements:	0.023s
+QuickFast sort on 32768 elements:	0.054s
+Merge sort on 32768 elements:	0.018s
+
+
+	======DESCENDING======
+Quick sort on 32768 elements:	0.025s
+QuickFast sort on 32768 elements:	0.049s
+Merge sort on 32768 elements:	0.04s
+
+
+	======EQUAL======
+Quick sort on 32768 elements:	0.0020s
+QuickFast sort on 32768 elements:	0.0050s
+Merge sort on 32768 elements:	0.01s
+
+
+	======RANDOM======
+Quick sort on 32768 elements:	0.032s
+QuickFast sort on 32768 elements:	0.059s
+Merge sort on 32768 elements:	0.03s
+
+
+
+
